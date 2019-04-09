@@ -19,11 +19,11 @@ return number;
 }
 
 function inc(n){
-  var number=+n;
-  return number;
+  var number= ++n;
+  return n;
 }
 
 function dec(n){
-  var number =- n;
+  var number =--n;
   return number;
 }
