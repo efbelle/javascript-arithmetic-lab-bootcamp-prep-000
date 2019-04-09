@@ -28,3 +28,12 @@ function dec(n){
   return n;
 }
 
+function makeInt(n){
+  var number = parseInt(n)
+  return number;
+}
+
+function makeInt(n){
+  var number = parseFloat(n)
+  return number;
+}
