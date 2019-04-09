@@ -27,3 +27,4 @@ function dec(n){
   var number =--n;
   return n;
 }
+
