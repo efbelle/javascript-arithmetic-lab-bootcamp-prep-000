@@ -33,6 +33,11 @@ function makeInt(n){
   return number;
 }
 
+function makeInt(n){
+  var number = n
+  return number;
+}
+
 function preserveDecimal(n){
   var number = parseFloat(n)
   return number;
